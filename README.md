@@ -2,3 +2,4 @@
 Joaquin Nakle 
 Jose Gonzalez
 Ignacio Lima
+Michael Rodriguez
