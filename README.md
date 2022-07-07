@@ -1,4 +1,5 @@
 # examen_integrador
 Joaquin
-José Gonzalez
+José
 Michael
+Ignacio
